@@ -4,7 +4,7 @@ d = defaultdict(list)
 
 for i in range(n):
     A = input()
-    d[A].append(i+1)
+    d[A].append(str(i+1))
 
 for i in range(m):
     B = input()
