@@ -6,7 +6,7 @@ in degrees(not radians) Let the angle be PHI
 Cos(PHI) = (X.Y)/|X||Y| where Z = AB × BC and Y = BC × CD.
 Here X.Y means the dot product of X and Y, and AB × BC means the cross product vectors AB and BC.
 Also AB = B - A
-
+git
 
 """
 
